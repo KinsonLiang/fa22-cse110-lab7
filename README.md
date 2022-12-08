@@ -1,3 +1,3 @@
 # Lab 7 - Starter
 
-**No Partner**
+**Jiancheng Liang no teammate**
