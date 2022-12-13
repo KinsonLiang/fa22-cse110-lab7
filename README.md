@@ -2,4 +2,4 @@
 
 **Jiancheng Liang no teammate**
 
-URL: https://kinsonliang.github.io/fa22-cse110-lab7
+URL: https://kinsonliang.github.io/fa22-cse110-lab7/index.html
